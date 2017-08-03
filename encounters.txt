@@ -1,0 +1,6 @@
+Initial Attack,3,Goblin,6,16,6,3,2,-1,25,Short swrd +2 1d4+1
+Goblin Pyro 1,3,Goblin,6,16,6,3,2,-1,24,Short swrd +2 1d4+1
+Goblin Pyro 2,1,Goblin Warchanter,4,18,9,1,6,3,12,Short swrd +2 1d4+1
+Die Dog,3,Goblin,6,16,6,3,2,-1,13,Short swrd +2 1d4+1
+DD Commando,1,Goblin Commando,3,17,12,4,5,2,18,Short swrd +2 1d4+1
+DD Dog,1,Dog,1,13,6,3,2,-1,17,Short swrd +2 1d4+1
